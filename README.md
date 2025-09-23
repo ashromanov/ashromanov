@@ -6,7 +6,6 @@
 - 🔭 I’m currently working as an ML Engineer
 - 🌱 I’m learning **ML (NLP & Classic mostly)**
 - 💼 I’m open to collaboration on interesting projects
-- ⚡ Intresting fact: Python is much faster than you think
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ashromanov)
