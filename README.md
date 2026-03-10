@@ -7,7 +7,7 @@
 ### About Me
 - 🔭 **Current Focus:** ML Engineer specializing in **GenAI, RAG systems, and LLM deployment**.
 - 💼 **Experience:** 3+ years building production AI platforms, handling full ML cycles from data pipelines to model serving (vLLM, Docker).
-- � **Achievements:** 1st place in Digital Breakthrough (AI hackathon), 2nd place in LCT, Assistant Coach at IOAI.
+- 🏆 **Achievements:** 1st place in Digital Breakthrough (AI hackathon), 2nd place in LCT, Assistant Coach at IOAI.
 - 🌱 **Learning:** Advanced ML & DL & Scalable Deployment.
 - 🎓 **Education:** BSc in Math & CS (Central University) / Industrial ML (Harbor.Space).
 
