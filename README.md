@@ -9,7 +9,6 @@
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ashromanov)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ashromanov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashromanov/)
 [![Email](https://img.shields.io/badge/Email-askhat.romanov%40proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askhat.romanov@proton.me)
 ## 🔧 Languages & Tools
