@@ -47,17 +47,6 @@ Currently working on multi-channel LLM agents, RAG pipelines, and self-hosted mo
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [ai-sql-optimizer](https://github.com/ashromanov/ai-sql-optimizer) | Multi-agent LLM system for DB migration & query optimization — **🥈 2nd place LCT** | LangGraph · FastAPI · GPT · Docker |
-| [RZD-churn-prediction](https://github.com/ashromanov/RZD-churn-prediction) | Product catalog structuring for RZhD — Digital Breakthrough hackathon | Python · GigaChat · Selenium |
-| [pr-service-example](https://github.com/ashromanov/pr-service-example) | PR reviewer auto-assignment service with team/user management | FastAPI · PostgreSQL · SQLAlchemy · Docker |
-| [tg-job-collector](https://github.com/ashromanov/tg-job-collector) | Telegram job aggregator with keyword and filter-based collection | Python · aiogram |
-
----
-
 ### GitHub Stats
 
 <p align="left">
